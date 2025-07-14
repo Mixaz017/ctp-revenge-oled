@@ -1,14 +1,14 @@
 <h3 align="center">
  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
- Catppuccin for <a href="https://github.com/vendetta-mod/Vendetta">Vendetta</a>, <a href="https://github.com/pyoncord/Bunny">Bunny</a>, <a href='https://github.com/revenge-mod/revenge-bundle'>Revenge</a> & <a href="https://github.com/enmity-mod/enmity">Enmity</a>
+ Catppuccin for <a href="https://github.com/vendetta-mod/Vendetta">Vendetta</a>, <a href="https://github.com/pyoncord/Bunny">Bunny</a>, <a href='https://github.com/revenge-mod/revenge-bundle'>Revenge</a> & <a href="https://github.com/enmity-mod/enmity">Enmity</a> (OLED fork)
  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
 <p align="center">
- <a href="https://github.com/catppuccin/vendetta/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/vendetta?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
- <a href="https://github.com/catppuccin/vendetta/issues"><img src="https://img.shields.io/github/issues/catppuccin/vendetta?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
- <a href="https://github.com/catppuccin/vendetta/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/vendetta?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+ <a href="https://github.com/Mixaz017/ctp-revenge-oled/stargazers"><img src="https://img.shields.io/github/stars/Mixaz017/ctp-revenge-oled?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+ <a href="https://github.com/Mixaz017/ctp-revenge-oled/issues"><img src="https://img.shields.io/github/issues/Mixaz017/ctp-revenge-oled?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+ <a href="https://github.com/Mixaz017/ctp-revenge-oled/contributors"><img src="https://img.shields.io/github/contributors/Mixaz017/ctp-revenge-oled?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -42,10 +42,10 @@
 
 1. Choose a flavor + accent combination from the [themes](./themes) directory and copy the URL in the following format:
    ```
-   https://raw.githubusercontent.com/catppuccin/vendetta/main/themes/<flavor>/<accent>.json
+   https://raw.githubusercontent.com/Mixaz017/ctp-revenge-oled/main/themes/<flavor>/<accent>.json
    ```
-   For example, if you'd like to use the `mocha` flavor with the `mauve` accent, copy the following link: `https://raw.githubusercontent.com/catppuccin/vendetta/main/themes/mocha/mauve.json`
 
+   For example, if you'd like to use the `mocha` flavor with the `mauve` accent, copy the following link: `https://raw.githubusercontent.com/Mixaz017/ctp-revenge-oled/main/themes/mocha/mauve.json`
 2. Head to `Settings` > `Bunny`, `Revenge` or `Enmity` > `Themes`
 3. Paste the copied link and press `Install`
 4. Select your theme and you're ready to go!
