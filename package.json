@@ -3,7 +3,7 @@
   "description": "catppuccin for react-native mobile discord mods",
   "license": "MIT",
   "scripts": {
-    "build": "whiskers react_native.tera",
+    "build": "whiskers react_native.tera --color-overrides=$(cat color-overrides.json | tr -d [:space:])",
     "watch": "npm-watch build",
     "host": "echo \"make sure to allow your phone through your firewall.\" && cd themes/ && http-server -p 3120",
     "dev": "pnpm watch & pnpm host"
